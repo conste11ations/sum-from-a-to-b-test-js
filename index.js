@@ -13,3 +13,5 @@ console.log(sum(3, 7));
 
 
 module.exports = sum;
+
+console.log(module);
